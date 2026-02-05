@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="480.0" y="40.0" text-anchor="middle" font-size="20" font-family="Arial">Entries by Month (EffectiveDate)</text>
+<line x1="80" y1="460" x2="880" y2="460" stroke="#333"/>
+<line x1="80" y1="80" x2="80" y2="460" stroke="#333"/>
+<rect x="83.33" y="194.45" width="26.67" height="265.55" fill="#4a90e2"/>
+<text x="96.67" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 96.67,478)">2014-07</text>
+<rect x="116.67" y="163.64" width="26.67" height="296.36" fill="#4a90e2"/>
+<text x="130.00" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 130.00,478)">2014-08</text>
+<rect x="150.00" y="152.33" width="26.67" height="307.67" fill="#4a90e2"/>
+<text x="163.33" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 163.33,478)">2014-09</text>
+<rect x="183.33" y="102.81" width="26.67" height="357.19" fill="#4a90e2"/>
+<text x="196.67" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 196.67,478)">2014-10</text>
+<rect x="216.67" y="188.21" width="26.67" height="271.79" fill="#4a90e2"/>
+<text x="230.00" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 230.00,478)">2014-11</text>
+<rect x="250.00" y="182.75" width="26.67" height="277.25" fill="#4a90e2"/>
+<text x="263.33" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 263.33,478)">2014-12</text>
+<rect x="283.33" y="147.27" width="26.67" height="312.73" fill="#4a90e2"/>
+<text x="296.67" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 296.67,478)">2015-01</text>
+<rect x="316.67" y="181.19" width="26.67" height="278.81" fill="#4a90e2"/>
+<text x="330.00" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 330.00,478)">2015-02</text>
+<rect x="350.00" y="141.81" width="26.67" height="318.19" fill="#4a90e2"/>
+<text x="363.33" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 363.33,478)">2015-03</text>
+<rect x="383.33" y="116.07" width="26.67" height="343.93" fill="#4a90e2"/>
+<text x="396.67" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 396.67,478)">2015-04</text>
+<rect x="416.67" y="149.21" width="26.67" height="310.79" fill="#4a90e2"/>
+<text x="430.00" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 430.00,478)">2015-05</text>
+<rect x="450.00" y="141.42" width="26.67" height="318.58" fill="#4a90e2"/>
+<text x="463.33" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 463.33,478)">2015-06</text>
+<rect x="483.33" y="224.86" width="26.67" height="235.14" fill="#4a90e2"/>
+<text x="496.67" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 496.67,478)">2015-07</text>
+<rect x="516.67" y="197.96" width="26.67" height="262.04" fill="#4a90e2"/>
+<text x="530.00" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 530.00,478)">2015-08</text>
+<rect x="550.00" y="178.46" width="26.67" height="281.54" fill="#4a90e2"/>
+<text x="563.33" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 563.33,478)">2015-09</text>
+<rect x="583.33" y="132.45" width="26.67" height="327.55" fill="#4a90e2"/>
+<text x="596.67" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 596.67,478)">2015-10</text>
+<rect x="616.67" y="184.31" width="26.67" height="275.69" fill="#4a90e2"/>
+<text x="630.00" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 630.00,478)">2015-11</text>
+<rect x="650.00" y="142.59" width="26.67" height="317.41" fill="#4a90e2"/>
+<text x="663.33" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 663.33,478)">2015-12</text>
+<rect x="683.33" y="214.73" width="26.67" height="245.27" fill="#4a90e2"/>
+<text x="696.67" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 696.67,478)">2016-01</text>
+<rect x="716.67" y="133.23" width="26.67" height="326.77" fill="#4a90e2"/>
+<text x="730.00" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 730.00,478)">2016-02</text>
+<rect x="750.00" y="84.09" width="26.67" height="375.91" fill="#4a90e2"/>
+<text x="763.33" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 763.33,478)">2016-03</text>
+<rect x="783.33" y="128.94" width="26.67" height="331.06" fill="#4a90e2"/>
+<text x="796.67" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 796.67,478)">2016-04</text>
+<rect x="816.67" y="86.82" width="26.67" height="373.18" fill="#4a90e2"/>
+<text x="830.00" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 830.00,478)">2016-05</text>
+<rect x="850.00" y="80.00" width="26.67" height="380.00" fill="#4a90e2"/>
+<text x="863.33" y="478" text-anchor="middle" font-size="10" font-family="Arial" transform="rotate(45 863.33,478)">2016-06</text>
+</svg>

@@ -1,0 +1,91 @@
+Workbook: je_samples (1).xlsx
+Sheet analyzed: JELineItems
+Row count (excluding header): 37905
+Column count: 30
+
+Date ranges:
+  - EffectiveDate: 2014-07-01 to 2016-06-30
+  - EntryDate: 2014-06-25 to 2016-06-30
+
+Column profiles:
+- JEEntryKey (text): non-null=37905, unique=18951
+  sample=['20165699', '20154681', '20161102', '20153010', '20155114']
+- JENumber (text): non-null=37905, unique=18951
+  sample=['20165699', '20154681', '20161102', '20153010', '20155114']
+- JEIdentifier (text): non-null=37905, unique=18951
+  sample=['20165699', '20154681', '20161102', '20153010', '20155114']
+- GLAccountNumber (text): non-null=37905, unique=74
+  sample=[51200.0, 76930.0, 76932.0, 72712.0, 51850.0]
+- BLANK (text): non-null=0, unique=0
+  sample=[]
+- EffectiveDate (date): non-null=37905, unique=492
+  min=2014-07-01 00:00:00, max=2016-06-30 00:00:00
+  sample=[datetime.datetime(2014, 10, 21, 0, 0), datetime.datetime(2015, 6, 23, 0, 0), datetime.datetime(2016, 1, 29, 0, 0), datetime.datetime(2016, 4, 21, 0, 0), datetime.datetime(2016, 6, 3, 0, 0)]
+- Period (text): non-null=37905, unique=24
+  sample=['2015-11', '2016-02', '2016-01', '2015-05', '2015-12']
+- EntryDate (date): non-null=37905, unique=719
+  min=2014-06-25 00:00:00, max=2016-06-30 00:00:00
+  sample=[datetime.datetime(2014, 10, 21, 0, 0), datetime.datetime(2015, 6, 23, 0, 0), datetime.datetime(2014, 8, 3, 0, 0), datetime.datetime(2015, 7, 12, 0, 0), datetime.datetime(2016, 1, 29, 0, 0)]
+- PreparerID (text): non-null=37905, unique=15
+  sample=['Yvonne Chapman|Catering Manager\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 \xa0', 'Victoria Simpson|Accounting Manager', 'POS', 'Boris Arnold|Baker II', 'Brian Gibson|Assistant Manager\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 ']
+- Source (text): non-null=37905, unique=14
+  sample=['CHECK', 'REGULAR JV                 ', 'CASH RECEIPT               ', 'PURCHASE CARD              ', 'PAYROLL JV                 ']
+- BusinessUnit (text): non-null=37905, unique=9
+  sample=['FOOD SERVICE', 'HOTEL', 'OPER - GENERAL', 'MAINTENANCE', 'HOTEL PANTRY']
+- JEDescription (text): non-null=37905, unique=3065
+  sample=['RIOS,VERONICA', 'EXPLORE THE SOUTH', 'ROYAL FOOD SERVICE C 0704176', 'SELLERS,AMELIA', 'VIASAT INC']
+- Debit (number): non-null=18952, unique=12014
+  min=-160918.46, max=318505.8
+  sum=43355165.54568665
+  sample=[0.75, 1.5, 2.0, 3.0, 3.75]
+- Credit (number): non-null=18954, unique=12016
+  min=-318505.8, max=160918.46
+  sum=-43355165.54568664
+  sample=[-0.75, -0.5, -311.81, -65503.88, 69.53]
+- Amount (number): non-null=37905, unique=24011
+  min=-318505.8, max=318505.8
+  sum=0.0
+  sample=[-0.75, 1.5, 0.75, 2.0, 3.0]
+- AbsoluteAmount (number): non-null=0, unique=0
+  sample=[]
+- SysManInd (text): non-null=0, unique=0
+  sample=[]
+- UserDefined1 (text): non-null=0, unique=0
+  sample=[]
+- UserDefined2 (text): non-null=0, unique=0
+  sample=[]
+- UserDefined3 (text): non-null=0, unique=0
+  sample=[]
+- PeriodFlag (text): non-null=0, unique=0
+  sample=[]
+- AccountType (text): non-null=37905, unique=4
+  sample=['Expenses', 'Liabilities', 'Assets', 'Revenue']
+- AccountClass (text): non-null=37905, unique=18
+  sample=['Depreciation Expense', 'Cash', 'Other Income', 'Accounts Receivable', 'Other Expenses']
+- GLAccountStartingBalance (text): non-null=3, unique=1
+  sample=['INVENTORY - FOOD SERVICE    ']
+- GLAccountEndingBalance (text): non-null=0, unique=0
+  sample=[]
+- SortOrder (text): non-null=0, unique=0
+  sample=[]
+- GLAccountName (text): non-null=37905, unique=73
+  sample=['Printing - On Campus', 'Depreciation Expense - Building', 'Equipment', 'Equipment - Audio/Visual', 'Other Per Diems']
+- Category (text): non-null=0, unique=0
+  sample=[]
+- Marked (text): non-null=0, unique=0
+  sample=[]
+- MarkedInReport (text): non-null=0, unique=0
+  sample=[]
+
+Monthly counts based on EffectiveDate: 24 months
+Top accounts by Amount (absolute):
+  11845.0: 36438315.57
+  43180.0: 9626813.81
+  43310.0: 9378197.63
+  14260.0: 5542738.36
+  16200.0: 4796511.13
+  22110.0: 2529949.85
+  70300-FS: 2201037.82
+  86100.0: 1780156.36
+  51110.0: 1662832.49
+  16290.0: 1627109.36
